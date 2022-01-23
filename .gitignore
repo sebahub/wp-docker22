@@ -1,0 +1,7 @@
+/vendor
+/app
+/vendor
+/data
+/composer.lock
+.env
+README.mdx
